@@ -21,4 +21,12 @@ header > h1 {
     float: left;
     margin: 1.6%;
     border-radius: 15%;
+    transition: background.8s; 
+}
+.square.winner {   
+    background: gold;
+    
+}
+.square.loser{
+background: grey;
 }
