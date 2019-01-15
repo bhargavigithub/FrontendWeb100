@@ -1,2 +1,2 @@
 import './styles.css';
-console.log('Ready to learn some stuff!');
+console.log('Ready to learn some stufff!');
